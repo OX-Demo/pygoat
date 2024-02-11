@@ -1,3 +1,4 @@
+.vscode
 .env/
 *.pyc
 env
@@ -7,3 +8,4 @@ venv
 *db.sqlite3*
 app.log
 bin
+.vscode/settings.json
